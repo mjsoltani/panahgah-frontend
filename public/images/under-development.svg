@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <style>
+    .team-collaboration-icon-0{fill:#a6e8ff}.team-collaboration-icon-1{fill:#74d4f6}.team-collaboration-icon-2{fill:#f15757}.team-collaboration-icon-3{fill:#fa7878}.team-collaboration-icon-4{fill:#ffd472}.team-collaboration-icon-5{fill:#ffc247}.team-collaboration-icon-6{fill:#435e8a}.team-collaboration-icon-7{fill:#6b86b8}
+  </style>
+  <path class="team-collaboration-icon-0" d="M280.5 429.5h-49a5 5 0 0 1-5-5v-109a5 5 0 0 1 5-5h49a5 5 0 0 1 5 5v109a5 5 0 0 1-5 5z"/>
+  <path class="team-collaboration-icon-1" d="M231.5 315.5v109a5 5 0 0 0 5 5h-5a5 5 0 0 1-5-5v-109a5 5 0 0 1 5-5h5a5 5 0 0 0-5 5z"/>
+  <path class="team-collaboration-icon-2" d="m142 322.7-44.4 76.9a5 5 0 0 1-4.3 2.5 5 5 0 0 1-4.3-7.5l44.4-76.9a5 5 0 1 1 8.6 5z"/>
+  <path class="team-collaboration-icon-3" d="M97.6 322.7l-44.4 76.9a5 5 0 0 0 4.3 7.5 5 5 0 0 0 4.3-2.5l44.4-76.9a5 5 0 0 0-8.6-5z"/>
+  <path class="team-collaboration-icon-4" d="m420.6 322.7-44.4-76.9a5 5 0 0 0-8.6 5l44.4 76.9a5 5 0 0 0 8.6-5z"/>
+  <path class="team-collaboration-icon-5" d="m376.2 322.7-44.4-76.9a5 5 0 0 0-4.3-2.5 5 5 0 0 0-4.3 7.5l44.4 76.9a5 5 0 1 0 8.6-5z"/>
+  <path class="team-collaboration-icon-0" d="M256 244.5a35 35 0 1 1-35-35 35 35 0 0 1 35 35z"/>
+  <path class="team-collaboration-icon-1" d="M256 244.5a35 35 0 0 0 0-70v70z"/>
+  <path class="team-collaboration-icon-2" d="M124.9 220.6a35 35 0 1 1-60.6-35 35 35 0 0 1 60.6 35z"/>
+  <path class="team-collaboration-icon-3" d="M124.9 220.6a35 35 0 0 0-30.3-60.6v60.6z"/>
+  <path class="team-collaboration-icon-4" d="M447.7 220.6a35 35 0 1 1-60.6-35 35 35 0 0 1 60.6 35z"/>
+  <path class="team-collaboration-icon-5" d="M447.7 220.6a35 35 0 0 0-30.3-60.6v60.6z"/>
+  <path class="team-collaboration-icon-6" d="M507 507.5H5a5 5 0 0 1-5-5v-19a5 5 0 0 1 5-5h502a5 5 0 0 1 5 5v19a5 5 0 0 1-5 5z"/>
+  <path class="team-collaboration-icon-7" d="M5 483.5h502v-19H5v19zM5 479a5 5 0 0 0-5 5v-19a5 5 0 0 1 5-5h502a5 5 0 0 1 5 5v19a5 5 0 0 0-5-5H5z"/>
+  <path class="team-collaboration-icon-0" d="M410.7 133.5H101.3a5 5 0 0 1-3.5-8.5l45.4-45.8a3.5 3.5 0 0 1 5 0l40.3 39.8 40.3-39.8a3.5 3.5 0 0 1 5 0l40.3 39.8 40.3-39.8a3.5 3.5 0 0 1 5 0l45.4 45.8a5 5 0 0 1-3.5 8.5z"/>
+  <path class="team-collaboration-icon-1" d="M101.3 133.5H256v-99l-45.4 45.8-5 5-40.3-39.8-5 5-40.3 39.8a3.5 3.5 0 0 0-5 0l-14 14.2z"/>
+  <path class="team-collaboration-icon-2" d="M352.5 62.5h-10a5 5 0 0 1-5-5v-36a5 5 0 0 1 5-5h10a5 5 0 0 1 5 5v36a5 5 0 0 1-5 5z"/>
+  <path class="team-collaboration-icon-3" d="M342.5 21.5v36a5 5 0 0 0 5 5h-5a5 5 0 0 1-5-5v-36a5 5 0 0 1 5-5h5a5 5 0 0 0-5 5z"/>
+  <path class="team-collaboration-icon-4" d="M179.5 62.5h-10a5 5 0 0 1-5-5v-36a5 5 0 0 1 5-5h10a5 5 0 0 1 5 5v36a5 5 0 0 1-5 5z"/>
+  <path class="team-collaboration-icon-5" d="M169.5 21.5v36a5 5 0 0 0 5 5h-5a5 5 0 0 1-5-5v-36a5 5 0 0 1 5-5h5a5 5 0 0 0-5 5z"/>
+  <path class="team-collaboration-icon-6" d="M440.5 82.5h-369a5 5 0 0 1-5-5v-10a5 5 0 0 1 5-5h369a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5z"/>
+  <path class="team-collaboration-icon-7" d="M440.5 72.5v10a5 5 0 0 0 5-5v-10a5 5 0 0 1-5 5zM71.5 67.5h369v10H71.5v-10z"/>
+</svg> 
